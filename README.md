@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases a novel approach to generate extensive text outputs from OpenAI models, such as GPT-3.5-turbo-16k, GPT-4, and GPT-4-32k, by leveraging function calls to surpass the usual token limits. The application demonstrates how to reliably produce long-form content, significantly exceeding the typical output length.
+This project showcases a novel approach to generate extensive text outputs from OpenAI models, such as GPT-3.5-turbo-16k, GPT-4, and GPT-4-32k, by leveraging function calls to bypass the models' tendencies to cap their token count. The application demonstrates how to reliably produce long-form content, significantly exceeding the typical output length.
 
 ## Table of Contents
 
